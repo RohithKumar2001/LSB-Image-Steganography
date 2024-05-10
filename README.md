@@ -1,2 +1,2 @@
 # LSB-Image-Steganography
-The objective of this project was to conceal (encode) a secret text message, length of the secret text message from a file into LSB of the Image bytes inside an image of bmp file format. Technologies used: C Programming – File operations, Pointers, Bitwise operations, Functions, Make-files, Command line arguments.
+This project focuses on concealing data within the least significant bits of digital images, enabling covert communication. I utilized LSB steganography to encode a secret text message, of variable length, extracted from a file, into the least significant bits (LSB) of the bytes composing an image in BMP file format while preserving their visual uprightness.
